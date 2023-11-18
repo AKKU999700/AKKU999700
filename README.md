@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=”rigght”  alt=”coding”  width=”400” src=”https://github.com/AKKU999700/AKKU999700/assets/136452197/f5e2237b-2f0a-4cab-b2d4-db88c9ebe05d.gif
+<img align=”rigght”  alt=”coding”  width=”400” src=”![image](https://github.com/AKKU999700/AKKU999700/assets/136452197/31f41014-e995-416f-ac03-983b191115bc)
 ”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku999700&label=Profile%20views&color=0e75b6&style=flat" alt="akku999700" /> </p>
